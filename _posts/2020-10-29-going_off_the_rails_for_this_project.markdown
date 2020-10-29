@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Going off the 'Rails' for this project"
-date:       2020-10-29 15:15:25 +0000
+title:      "Going off the 'Rails' with this project"
+date:       2020-10-29 11:15:26 -0400
 permalink:  going_off_the_rails_for_this_project
 ---
 
